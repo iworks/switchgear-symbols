@@ -5,8 +5,8 @@
 </text>
 <path style="fill:#ff0" d="m 10.1,0.1 6.56,6e-4 c 0.86,0.015 1.23,0.5158 1.24,1.3764 L 17.72,7.1 10.1,7.1 Z" />
 <rect width="17.8" height="37" x="0.1" y="0.1" style="stroke:#000;fill:none;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
-<text style="font-size:6.34987px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#008000;stroke:none" x="9.348" y="6.074" >
-<tspan style="font-size:6.34987px;text-align:end;text-anchor:end;fill:#008000;stroke-width:0.264583" x="9.348" y="6.074" >6</tspan>
+<text style="font-size:6.34987px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none" x="9.348" y="6.074" >
+<tspan style="font-size:6.34987px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264583" x="9.348" y="6.074" >6</tspan>
 </text>
 <path d="m 13.21,5.981 c 0,0.145 0.12,0.264 0.26,0.264 h 1 c 0.15,0 0.26,-0.119 0.26,-0.264 V 5.716 H 13.21 Z M 14,0.9545 c -1,0 -1.85,0.8305 -1.85,1.8525 0,0.629 0.31,1.182 0.79,1.518 v 0.598 c 0,0.145 0.12,0.264 0.27,0.264 h 1.58 c 0.15,0 0.27,-0.119 0.27,-0.264 V 4.325 C 15.54,3.989 15.85,3.437 15.85,2.807 15.85,1.786 15.02,0.9545 14,0.9545 Z M 14.53,4.05 V 4.658 H 13.47 V 4.05 c -0.4,-0.283 -0.79,-0.575 -0.79,-1.243 0,-0.731 0.59,-1.324 1.32,-1.324 0.73,0 1.32,0.593 1.32,1.324 0,0.658 -0.4,0.966 -0.79,1.243 z" style="stroke-width:0.264583" />
 <rect width="17.8" height=".2" x=".1" y="7" />

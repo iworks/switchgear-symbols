@@ -1,21 +1,21 @@
  <svg width="54mm" height="37.2mm" viewBox="0 0 54 37.2" xmlns="http://www.w3.org/2000/svg" >
 <path style="fill:#bbb;stroke-width:0.3" d="M 10.1,0.1953 52.95,0.1 c 0.72,0 0.97,0.7534 0.97,1.307 V 7.1 H 10.1 Z" />
 <rect width="53.82" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" ry="1.143" rx="1.144" />
-<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#008000;stroke:none;stroke-width:0.264591" x="9.32" y="6.07" >
-<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#008000;stroke-width:0.264591" x="9.32" y="6.07" >1</tspan>
+<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none;stroke-width:0.264591" x="9.32" y="6.07" >
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264591" x="9.32" y="6.07" >1</tspan>
 </text>
 <text style="font-size:10.0197px;font-family:sans-serif;stroke:none;stroke-width:0.13267" x="5.627" y="14.56" >
 <tspan style="font-size:6.01185px;stroke-width:0.13267" x="5.627" y="14.56" >Typ</tspan>
 <tspan style="stroke-width:0.13267" x="5.627" y="27.1" >OPIS</tspan>
 </text>
-<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#800000;stroke-width:0.26461" x="6.756" y="36" >
-<tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#800000;stroke-width:0.26461" x="6.756" y="36" >L1</tspan>
+<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#800;stroke-width:0.26461" x="6.756" y="36" >
+<tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#800;stroke-width:0.26461" x="6.756" y="36" >L1</tspan>
 </text>
 <text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';stroke-width:0.26461" x="24.49" y="36.02" >
 <tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';stroke-width:0.26461" x="24.49" y="36.02" >L2</tspan>
 </text>
-<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#808080;stroke-width:0.26461" x="42.51" y="36.02" >
-<tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#808080;stroke-width:0.26461" x="42.51" y="36.02" >L3</tspan>
+<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777;stroke-width:0.26461" x="42.51" y="36.02" >
+<tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777;stroke-width:0.26461" x="42.51" y="36.02" >L3</tspan>
 </text>
 <rect width="53.8" height=".2" x=".1" y="7"/>
 <rect width=".2" height="7" x="10" y=".1"/>

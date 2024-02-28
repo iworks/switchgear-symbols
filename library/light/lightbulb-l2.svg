@@ -2,14 +2,14 @@
 <path style="fill:#ffff00;stroke-width:0.3" d="m 10.11,0.1962 6.65,-0.096 c 0.86,0.014 1.23,0.484 1.24,1.2918 L 17.9,7 h -7.8 z" />
 <rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
 <path d="m 13.63,1.158 a 1.852,1.852 0 0 0 -1.86,1.85 c 0,0.63 0.32,1.18 0.81,1.52 v 0.6 a 0.2646,0.2646 0 0 0 0.26,0.26 h 1.59 a 0.2646,0.2646 0 0 0 0.26,-0.26 v -0.6 c 0.48,-0.34 0.8,-0.89 0.8,-1.52 a 1.852,1.852 0 0 0 -1.85,-1.85 m -0.8,5.03 a 0.2646,0.2646 0 0 0 0.27,0.26 h 1 a 0.2646,0.2646 0 0 0 0.27,-0.26 v -0.27 h -1.59 z" style="stroke-width:0.2646" transform="scale(1)" />
-<text style="font-size:6.34987px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#008000;stroke:none" x="9.348" y="6.074" >
-<tspan style="font-size:6.34987px;text-align:end;text-anchor:end;fill:#008000;stroke-width:0.264583" x="9.348" y="6.074" >6</tspan>
+<text style="font-size:6.34987px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none" x="9.348" y="6.074" >
+<tspan style="font-size:6.34987px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264583" x="9.348" y="6.074" >6</tspan>
 </text>
 <text style="font-size:4.7559px;font-family:sans-serif;stroke:none" x="-29.65" y="7.118" transform="rotate(-90)" >
 <tspan style="font-size:2.85355px;stroke-width:0.132639" x="-29.65" y="7.118" >Oświetlenie</tspan>
 <tspan style="stroke-width:0.132639" x="-29.65" y="13.07" >PARTER 1</tspan>
 </text>
-<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#800000;stroke-width:0.26461" x="6.756" y="36" >
+<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#800;stroke-width:0.26461" x="6.756" y="36" >
 <tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#000;stroke-width:0.26461" x="6.756" y="36" >L2</tspan>
 </text>
 <rect width="17.8" height="0.2" x=".1" y="7" />
