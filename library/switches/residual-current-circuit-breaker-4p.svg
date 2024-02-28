@@ -1,0 +1,16 @@
+<svg width="72mm" height="37.2mm" viewBox="0 0 72 37.2" xmlns="http://www.w3.org/2000/svg" >
+<path style="fill:#ddeeff;stroke-width:0.3" d="m 10.1,0.1 60.83,0.1294 c 0.72,0 0.97,0.7896 0.97,1.3696 V 7.2 L 10.1,7.1 Z" />
+<rect width="71.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.199994;stroke-miterlimit:4" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#007700;stroke:none" x="9.32" y="6.07" >
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#007700;stroke-width:0.264591" x="9.32" y="6.07" >19</tspan>
+</text>
+<text style="font-size:10.0197px;font-family:sans-serif;stroke:none" x="5.627" y="17.42" >
+<tspan style="font-size:6.01185px" x="5.627" y="17.42" >Obwody:</tspan>
+<tspan x="5.627" y="29.96" style="font-size:7.7611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal'" >1-10</tspan>
+</text>
+<rect width="71.8" height=".2" x="0.1" y="7" />
+<rect width="0.2" height="7" x="10" y=".1" />
+<text style="font-size:6.66968px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264525" x="30.52" y="6.031" >
+<tspan style="stroke-width:0.264525" x="30.52" y="6.031" >IΔ RCD</tspan>
+</text>
+</svg>
