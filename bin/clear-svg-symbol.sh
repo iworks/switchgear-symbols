@@ -33,7 +33,19 @@ perl -pi -e 's/line-height:1.25//g' ${FILE}
 perl -pi -e 's/fill:#000000//g' ${FILE}
 perl -pi -e 's/fill-opacity:1//g' ${FILE}
 perl -pi -e 's/paint-order:markers stroke fill//g' ${FILE}
+perl -pi -e 's/font-variant-caps:normal//g' ${FILE}
+perl -pi -e 's/font-variant-east-asian:normal//g' ${FILE}
+perl -pi -e 's/font-variant-numeric:normal//g' ${FILE}
+perl -pi -e 's/font-variant-ligatures:normal//g' ${FILE}
+perl -pi -e 's/stroke:none;stroke-width:[0-9]+\.[0-9]+/stroke:none/g' ${FILE}
 perl -pi -e 's/;;+/;/g' ${FILE}
 perl -pi -e 's/";+/"/g' ${FILE}
-perl -pi -e 's/;+"/"/g' ${FILE}
-perl -pi -e 's/stroke-width:0.3[0-9]+/stroke-width:0.3/g' ${FILE}
+perl -pi -e 's/#000000/#000/g' ${FILE}
+perl -pi -e 's/#ff0000/#f00/g' ${FILE}
+perl -pi -e 's/#ffffff/#fff/g' ${FILE}
+perl -pi -e 's/0\.29[0-9]+/0.3/g' ${FILE}
+perl -pi -e 's/0\.30[0-9]+/0.3/g' ${FILE}
+perl -pi -e 's/0\.20[0-9]+/0.2/g' ${FILE}
+perl -pi -e 's/0\.10[0-9]+/0.1/g' ${FILE}
+perl -pi -e 's/^ +//g' ${FILE}
+perl -pi -e 's/ +$//g' ${FILE}
