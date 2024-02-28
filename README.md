@@ -20,5 +20,5 @@ Sizes:
 
 Types colors:
 * main power - #f00
-* socket - #fed
-* 
+* sockets - #fed
+* devices - #dea

@@ -43,14 +43,15 @@ perl -pi -e 's/font-variant-ligatures:normal//g' ${FILE}
 perl -pi -e 's/stroke:none;stroke-width:[0-9]+\.[0-9]+/stroke:none/g' ${FILE}
 perl -pi -e 's/;;+/;/g' ${FILE}
 perl -pi -e 's/";+/"/g' ${FILE}
+perl -pi -e 's/#ffeedd/#fed/g' ${FILE}
 perl -pi -e 's/#000000/#000/g' ${FILE}
 perl -pi -e 's/#ff0000/#f00/g' ${FILE}
 perl -pi -e 's/#ffffff/#fff/g' ${FILE}
 perl -pi -e 's/#ffff00/#ff0/g' ${FILE}
-perl -pi -e 's/0\.29[0-9]+/0.3/g' ${FILE}
-perl -pi -e 's/0\.30[0-9]+/0.3/g' ${FILE}
-perl -pi -e 's/0\.20[0-9]+/0.2/g' ${FILE}
-perl -pi -e 's/0\.10[0-9]+/0.1/g' ${FILE}
-perl -pi -e 's/1\.0[0-9]+/1/g' ${FILE}
+perl -pi -e 's/0\.290[0-9]+/0.3/g' ${FILE}
+perl -pi -e 's/0\.300[0-9]+/0.3/g' ${FILE}
+perl -pi -e 's/0\.200[0-9]+/0.2/g' ${FILE}
+perl -pi -e 's/0\.100[0-9]+/0.1/g' ${FILE}
+perl -pi -e 's/1\.00[0-9]+/1/g' ${FILE}
 perl -pi -e 's/^ +//g' ${FILE}
 perl -pi -e 's/ +$//g' ${FILE}

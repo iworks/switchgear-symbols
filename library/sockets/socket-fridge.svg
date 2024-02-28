@@ -1,0 +1,14 @@
+<svg width="18mm" height="37.2mm" viewBox="0 0 18 37.2" xmlns="http://www.w3.org/2000/svg" >
+<path style="fill:#fed;stroke-width:0.3;" d="m 10.1,0.1 6.56,0 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#007700;stroke:none" x="9.35" y="6.07" >
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#007700;stroke-width:0.264592" x="9.35" y="6.07" >15</tspan>
+</text>
+<text style="font-size:5.30567px;font-family:sans-serif;stroke:none" x="-35.94" y="6.795" transform="rotate(-90)" >
+<tspan style="font-size:3.18341px;stroke-width:0.132647" x="-35.94" y="6.795" >Gniazdko</tspan>
+<tspan style="stroke-width:0.132647" x="-35.94" y="13.42" >LODÓWKA</tspan>
+</text>
+<rect width="17.8" height=".2" x="0.1" y="7" />
+<rect width="0.2" height="7" x="10" y=".1" />
+<path d="m 15.33,0.955 h -2.65 c -0.29,0 -0.53,0.238 -0.53,0.528 v 3.972 c 0,0.29 0.24,0.53 0.53,0.53 v 0.26 h 0.53 v -0.26 h 1.59 v 0.26 h 0.52 v -0.26 c 0.3,0 0.53,-0.24 0.53,-0.53 V 1.483 c 0,-0.29 -0.23,-0.528 -0.53,-0.528 m 0,4.5 H 12.68 V 1.483 h 2.65 v 3.972 m -1.85,-1.06 h -0.53 v -1.32 h 0.53 z" style="stroke-width:0.264583" />
+</svg>
