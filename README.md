@@ -1,24 +1,28 @@
-# Switchgear Symbols for printing
+# Symbole do opisywania rozdzielnic
 
-Icons: https://materialdesignicons.com/
+W projekcie zostały użyte pliki ikon: https://materialdesignicons.com/
 
-Licence: https://www.apache.org/licenses/LICENSE-2.0.html
 
-Text:
-* Description: #000 (no color)
-* Number: #070
+## Kolory
 
-Phases colors:
+### Text
+* opisy #000 (no color)
+* numery #070
+
+### Fazy
 * L1 #800
 * L2 #000
 * L3 #777
 
-Sizes:
+### Typy
+* zasilanie - #f00
+* gniazdka - #fed
+* urządzenia - #dea
+* specjalne - #def
+
+## Wielkości
+
 * top vertical - top: 7 mm
 * top horizontal - left: 10 mm
 * bottom vertical - top: 31.5 mm
 
-Types colors:
-* main power - #f00
-* sockets - #fed
-* devices - #dea
