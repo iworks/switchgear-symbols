@@ -1,0 +1,14 @@
+ <svg width="18mm" height="37.2mm" viewBox="0 0 18 37.2" xmlns="http://www.w3.org/2000/svg" >
+<path style="fill:#f00;stroke-width:0.3;" d="m 10.1,0.1 6.56,0 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#008000;stroke:none;stroke-width:0.264592" x="9.35" y="6.07" >
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#008000;stroke-width:0.264592" x="9.35" y="6.07">6</tspan>
+</text>
+<path d="m 12.68,0.955 h 2.64 l -0.92,1.85 h 0.92 l -1.85,3.44 v -2.12 h -0.79 v -3.17 m 0.52,0.53 v 2.11 H 14 v 0.71 l 0.53,-0.97 h -1 l 0.93,-1.85 z" style="fill:#fff;stroke-width:0.264592" />
+<text style="font-size:5.30567px;font-family:sans-serif;fill:#f00;stroke:none;stroke-width:0.132647" x="-34.88" y="6.96" transform="rotate(-90)">
+<tspan style="font-size:3.18341px;fill:#f00;stroke-width:0.132647" x="-34.88" y="6.96">Wyłącznik</tspan>
+<tspan style="fill:#f00;stroke-width:0.132647" x="-34.88" y="13.59" >GŁÓWNY</tspan>
+</text>
+<path style="stroke-width:0.3" d="M 0.1,7.2 H 17.9 V 7 H 0.1 Z" />
+<path style="stroke-width:0.3" d="m 10,7.1 h 0.2 v -7 H 10 Z" />
+</svg> 

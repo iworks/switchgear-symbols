@@ -1,0 +1,13 @@
+ <svg width="36mm" height="37.2mm" viewBox="0 0 36 37.2" xmlns="http://www.w3.org/2000/svg" >
+<path style="fill:#bbb;stroke-width:0.3" d="m 10.1,0.1 24.75,0 c 0.72,0 0.97,0.79 0.97,1.37 L 35.9,7.1 H 10.1 Z" />
+<rect width="35.8" height="37" x="0.07" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#008000;stroke:none;stroke-width:0.264591" x="9.32" y="6.07" >
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#008000;stroke-width:0.264591" x="9.32" y="6.07" >1</tspan>
+</text>
+<text style="font-size:6.63119px;font-family:sans-serif;stroke:none;stroke-width:0.132646" x="3.83" y="21.69" >
+<tspan style="font-size:3.97872px;stroke-width:0.132646" x="3.83" y="21.69" >typ</tspan>
+<tspan style="stroke-width:0.132646" x="3.83" y="29.99" >OPIS</tspan>
+</text>
+<rect width="35.8" height=".2" x="0.1" y="7"/>
+<rect width="0.2" height="7" x="10" y=".1"/>
+</svg> 
