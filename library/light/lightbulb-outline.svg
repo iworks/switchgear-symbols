@@ -1,68 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="18mm"
-   height="37.200001mm"
-   viewBox="0 0 18 37.200001"
-   version="1.1"
-   id="svg14701"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs14698" />
-  <g
-     id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.30556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132642"
-       x="-34.714909"
-       y="6.9983869"
-       id="text61444"
-       transform="matrix(0,-0.99997971,1.0000203,0,0,0)"><tspan
-         id="tspan61442"
-         style="font-size:3.18335px;stroke-width:0.132642"
-         x="-34.714909"
-         y="6.9983869">Oświetlenie</tspan><tspan
-         style="stroke-width:0.132642"
-         x="-34.714909"
-         y="13.63034"
-         id="tspan64758">PARTER 1</tspan></text>
-    <path
-       id="rect14229-2"
-       style="fill:#ffff00;stroke-width:0.3;paint-order:markers stroke fill"
-       d="m 9.958101,0.20252731 6.704143,-0.10196686 c 0.859852,0.0150294 1.229727,0.51585307 1.237192,1.37599315 l -0.08503,5.9761045 -7.856308,1e-6 z" />
-    <rect
-       id="rect11371-2-9"
-       width="17.798874"
-       height="36.998875"
-       x="0.10056258"
-       y="0.10056229"
-       style="fill:none;stroke:#000000;stroke-width:0.201126;stroke-miterlimit:4;stroke-dasharray:none"
-       ry="1.142566"
-       rx="1.142566" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.200767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0.100563,7.4449263 H 17.899436"
-       id="path31073-6-7" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 9.958102,0.04546653 V 7.5077537"
-       id="path31376-1-3" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.34987px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="9.348033"
-       y="6.0738916"
-       id="text19521-7-6"
-       transform="scale(1.0000203,0.99997971)"><tspan
-         id="tspan19519-9-1"
-         style="font-size:6.34987px;text-align:end;text-anchor:end;fill:#008000;stroke-width:0.264583"
-         x="9.348033"
-         y="6.0738916">6</tspan></text>
-    <path
-       d="m 12.836866,6.1848875 c 0,0.1455151 0.119062,0.2645723 0.264583,0.2645723 h 1.058334 c 0.14552,0 0.264583,-0.1190572 0.264583,-0.2645723 V 5.9203153 h -1.5875 z m 0.79375,-5.026879 c -1.021292,0 -1.852083,0.8307573 -1.852083,1.8520079 0,0.6296824 0.314854,1.182639 0.79375,1.5186464 v 0.5979347 c 0,0.1455141 0.119062,0.2645723 0.264583,0.2645723 h 1.5875 c 0.145521,0 0.264583,-0.1190582 0.264583,-0.2645723 V 4.5286628 c 0.478896,-0.3360074 0.79375,-0.888964 0.79375,-1.5186464 0,-1.0212506 -0.830791,-1.8520079 -1.852083,-1.8520079 z m 0.529167,3.0954994 V 4.8620242 H 13.101449 V 4.2535079 c -0.402166,-0.2830935 -0.79375,-0.5741227 -0.79375,-1.2434915 0,-0.7302204 0.592667,-1.3228633 1.322917,-1.3228633 0.73025,0 1.322917,0.5926429 1.322917,1.3228633 0,0.6587852 -0.399521,0.9656898 -0.79375,1.2434915 z"
-       id="path73036"
-       style="fill:#000000;stroke-width:0.264583" />
-  </g>
+<svg width="18mm" height="37.200001mm" viewBox="0 0 18 37.200001" xmlns="http://www.w3.org/2000/svg" >
+<text style="font-size:5.30556px;font-family:sans-serif;stroke:none" x="-34.71" y="6.998" transform="rotate(-90)" >
+<tspan style="font-size:3.18335px;stroke-width:0.132642" x="-34.71" y="6.998" >Oświetlenie</tspan>
+<tspan style="stroke-width:0.132642" x="-34.71" y="13.63" >PARTER 1</tspan>
+</text>
+<path style="fill:#ff0" d="m 10.1,0.1 6.56,6e-4 c 0.86,0.015 1.23,0.5158 1.24,1.3764 L 17.72,7.1 10.1,7.1 Z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="stroke:#000;fill:none;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
+<text style="font-size:6.34987px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#008000;stroke:none" x="9.348" y="6.074" >
+<tspan style="font-size:6.34987px;text-align:end;text-anchor:end;fill:#008000;stroke-width:0.264583" x="9.348" y="6.074" >6</tspan>
+</text>
+<path d="m 13.21,5.981 c 0,0.145 0.12,0.264 0.26,0.264 h 1 c 0.15,0 0.26,-0.119 0.26,-0.264 V 5.716 H 13.21 Z M 14,0.9545 c -1,0 -1.85,0.8305 -1.85,1.8525 0,0.629 0.31,1.182 0.79,1.518 v 0.598 c 0,0.145 0.12,0.264 0.27,0.264 h 1.58 c 0.15,0 0.27,-0.119 0.27,-0.264 V 4.325 C 15.54,3.989 15.85,3.437 15.85,2.807 15.85,1.786 15.02,0.9545 14,0.9545 Z M 14.53,4.05 V 4.658 H 13.47 V 4.05 c -0.4,-0.283 -0.79,-0.575 -0.79,-1.243 0,-0.731 0.59,-1.324 1.32,-1.324 0.73,0 1.32,0.593 1.32,1.324 0,0.658 -0.4,0.966 -0.79,1.243 z" style="stroke-width:0.264583" />
+<rect width="17.8" height=".2" x=".1" y="7" />
+<rect width=".2" height="7" x="10" y=".1" />
 </svg>
