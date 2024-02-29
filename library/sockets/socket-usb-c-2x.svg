@@ -1,0 +1,14 @@
+<svg width="18mm" height="37.2mm" viewBox="0 0 18 37.2" xmlns="http://www.w3.org/2000/svg" >
+<path style="fill:#fed;stroke-width:0.3;" d="m 10.1,0.1 6.56,0 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none" x="9.35" y="6.07" >
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264592" x="9.35" y="6.07" >15</tspan>
+</text>
+<text style="font-size:5.30567px;font-family:sans-serif;stroke:none" x="-34.88" y="6.871" transform="rotate(-90)" >
+<tspan style="font-size:3.18341px;stroke-width:0.132647" x="-34.88" y="6.871" >Gniazdka</tspan>
+<tspan style="stroke-width:0.132647" x="-34.88" y="13.5" >2x USB C</tspan>
+</text>
+<rect width="17.8" height=".2" x="0.1" y="7" />
+<rect width="0.2" height="7" x="10" y=".1" />
+<path style="stroke-width:0.264606" d="M 12.16,1.04 C 11.52,1.04 11,1.56 11,2.2 v 2.79 c 0,0.64 0.52,1.17 1.16,1.17 0.64,0 1.16,-0.53 1.16,-1.17 V 2.2 c 0,-0.64 -0.52,-1.16 -1.16,-1.16 z m 3.68,0 c -0.64,0 -1.15,0.52 -1.15,1.16 v 2.79 c 0,0.64 0.51,1.17 1.15,1.17 C 16.48,6.16 17,5.63 17,4.99 V 2.2 C 17,1.56 16.48,1.04 15.84,1.04 Z m -3.68,0.47 c 0.38,0 0.7,0.31 0.7,0.69 v 2.79 c 0,0.39 -0.32,0.71 -0.7,0.71 -0.38,0 -0.7,-0.32 -0.7,-0.71 V 2.2 c 0,-0.38 0.32,-0.69 0.7,-0.69 z m 3.68,0 c 0.39,0 0.7,0.31 0.7,0.69 v 2.79 c 0,0.39 -0.31,0.71 -0.7,0.71 -0.38,0 -0.7,-0.32 -0.7,-0.71 V 2.2 c 0,-0.38 0.32,-0.69 0.7,-0.69 z m -3.68,0.45 c -0.13,0 -0.22,0.11 -0.22,0.24 v 2.79 c 0,0.13 0.1,0.24 0.22,0.24 0.13,0 0.23,-0.11 0.23,-0.24 V 2.2 c 0,-0.13 -0.1,-0.24 -0.23,-0.24 z m 3.68,0 c -0.12,0 -0.21,0.11 -0.21,0.24 v 2.79 c 0,0.13 0.1,0.24 0.21,0.24 0.13,0 0.24,-0.11 0.24,-0.24 V 2.2 c 0,-0.13 -0.11,-0.24 -0.24,-0.24 z" />
+</svg>

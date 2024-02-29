@@ -1,0 +1,14 @@
+<svg width="18mm" height="37.2mm" viewBox="0 0 18 37.2" xmlns="http://www.w3.org/2000/svg" >
+<path style="fill:#ff0;stroke-width:0.3;" d="m 10.2,0.1 6.46,6e-4 c 0.86,0.015 1.23,0.5158 1.24,1.3764 l -0.1,5.623 -7.63,0 z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
+<text style="font-size:6.34987px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none" x="9.348" y="6.074" >
+<tspan style="font-size:6.34987px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264583" x="9.348" y="6.074" >8</tspan>
+</text>
+<text style="font-size:5.30556px;font-family:sans-serif;stroke:none" x="-34.71" y="6.998" transform="rotate(-90)" >
+<tspan style="font-size:3.18335px;stroke-width:0.132642" x="-34.71" y="6.998" >Oświetlenie</tspan>
+<tspan style="stroke-width:0.132642" x="-34.71" y="13.63" >LAMPA1</tspan>
+</text>
+<rect width="17.8" height=".2" x=".1" y="7" />
+<rect width=".2" height="7" x="10" y=".1" />
+<path d="M 14.02,3.014 13.55,3.369 13.8,3.657 V 6 H 12.91 V 6.6 H 15.3 V 6 H 14.41 V 3.686 L 14.66,3.374 14.18,3.017 H 14.02 M 13,1.59 13.27,2.455 13.16,2.515 12.4,2.013 12.95,1.595 M 13.27,0.6005 11.35,2.046 13.18,3.25 13.92,2.683 13.27,0.6005 m 1.89,0.9915 0.56,0.421 -0.76,0.502 -0.11,-0.05 0.26,-0.871 M 14.79,0.6025 14.14,2.69 14.89,3.252 16.71,2.048 Z" style="stroke-width:0.264666" />
+</svg>
