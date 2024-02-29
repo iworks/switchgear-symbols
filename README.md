@@ -15,10 +15,10 @@ W projekcie zostały użyte pliki ikon: https://materialdesignicons.com/
 * L3 #777
 
 ### Typy
-* zasilanie - <img src=".github/f00.svg" width="1em" alt="#f00"/> #f00
-* gniazdka - #fed
-* urządzenia - #dea
-* specjalne - #def
+* zasilanie -  <img src=".github/f00.svg" width="15px" alt="#f00"/> #f00
+* gniazdka -   <img src=".github/fed.svg" width="15px" alt="#fed"/> #fed
+* urządzenia - <img src=".github/dea.svg" width="15px" alt="#dea"/> #dea
+* specjalne -  <img src=".github/def.svg" width="15px" alt="#def"/> #def
 
 ## Wielkości
 
