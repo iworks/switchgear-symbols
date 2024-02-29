@@ -134,7 +134,7 @@ files=( \
    "library/others/blank-2p.svg" \
    "library/others/indicator-1p-2.svg" \
    "library/devices/ev-station-3p.svg" \
-   "library/sockets/socket-hall.svg" \
+   "library/sockets/socket-room-hall-1p.svg" \
    "library/sockets/socket.svg" \
 )
 for entry in ${files[@]}; do
