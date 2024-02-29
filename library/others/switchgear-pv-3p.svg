@@ -1,12 +1,13 @@
 <svg width="54mm" height="37.2mm" viewBox="0 0 54 37.2" xmlns="http://www.w3.org/2000/svg" >
+
 <path style="fill:#f00;stroke-width:0.3" d="m 18,0.1 34.95,0.029 c 0.72,6e-4 0.97,0.79 0.97,1.37 V 7.1 L 18,7.1 Z" />
 <rect width="53.82" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
 <text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none" x="5.819" y="5.899" >
 <tspan style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070;stroke-width:0.264591" x="9.013" y="5.899" >22</tspan>
 </text>
-<text style="font-size:10.0197px;font-family:sans-serif;stroke:none" x="1.883" y="17.42" >
-<tspan style="font-size:6.01185px" x="1.883" y="17.42" >Rozdzielnica</tspan>
-<tspan x="1.883" y="29.96" style="font-size:7.0556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';" >FOTOWOLAIKA</tspan>
+<text style="font-size:10.0197px;font-family:sans-serif;stroke:none" x="2.886" y="17.42" >
+<tspan style="font-size:6.01185px" x="2.886" y="17.42" >Rozdzielnica</tspan>
+<tspan x="2.886" y="29.96" style="font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';" >FOTOWOLTAIKA</tspan>
 </text>
 <rect width="53.8" height=".2" x="0.1" y="7" />
 <rect width="0.2" height="7" x="17.9" y="0.1" />

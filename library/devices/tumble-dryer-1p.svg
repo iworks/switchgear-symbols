@@ -1,0 +1,15 @@
+<svg width="18mm" height="37.2mm" viewBox="0 0 18 37.2" xmlns="http://www.w3.org/2000/svg" >
+
+<path style="fill:#dea;stroke-width:0.3;" d="m 10.1,0.1 6.56,0 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#070;stroke:none" x="2.155" y="5.835" >
+<tspan style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070;stroke-width:0.264592" x="5.324" y="5.835" >15</tspan>
+</text>
+<text style="font-size:5.30567px;font-family:sans-serif;stroke:none" x="-35.94" y="6.795" transform="rotate(-90)" >
+<tspan style="font-size:3.18341px;stroke-width:0.132647" x="-35.94" y="6.795" >Gniazdko</tspan>
+<tspan style="stroke-width:0.132647" x="-35.94" y="13.42" >SUSZARKA</tspan>
+</text>
+<rect width="17.8" height=".2" x="0.1" y="7" />
+<rect width="0.2" height="7" x="10" y=".1" />
+<path d="m 12.2,0.599 h 3.59 a 0.6001,0.6001 0 0 1 0.6,0.6 v 4.802 a 0.6001,0.6001 0 0 1 -0.6,0.6 H 12.2 a 0.6001,0.6001 0 0 1 -0.6,-0.6 V 1.199 a 0.6001,0.6001 0 0 1 0.6,-0.6 m 0.29,0.6 A 0.3,0.3 0 0 0 12.2,1.5 0.3,0.3 0 0 0 12.49,1.799 0.3,0.3 0 0 0 12.8,1.5 0.3,0.3 0 0 0 12.49,1.199 m 0.91,0 A 0.3,0.3 0 0 0 13.09,1.5 0.3,0.3 0 0 0 13.4,1.799 0.3,0.3 0 0 0 13.69,1.5 0.3,0.3 0 0 0 13.4,1.199 M 14,2.4 A 1.8,1.8 0 0 0 12.2,4.2 1.8,1.8 0 0 0 14,6.001 1.8,1.8 0 0 0 15.79,4.2 1.8,1.8 0 0 0 14,2.4 m -1.17,0.75 h 0.57 c -0.11,0.414 0,0.651 0.18,0.837 0.32,0.321 0.48,0.727 0.4,1.263 H 13.41 C 13.52,4.836 13.41,4.599 13.23,4.413 12.9,4.092 12.76,3.687 12.84,3.15 m 1.2,0 h 0.57 c -0.11,0.414 0,0.651 0.17,0.837 0.33,0.321 0.48,0.727 0.4,1.263 H 14.61 C 14.72,4.836 14.61,4.599 14.43,4.413 14.1,4.092 13.96,3.687 14.04,3.15 Z" style="stroke-width:0.264633" />
+</svg>
