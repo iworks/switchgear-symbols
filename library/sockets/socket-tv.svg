@@ -1,64 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="18mm"
-   height="37.2mm"
-   viewBox="0 0 18 37.2"
-   version="1.1"
-   id="svg25907"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs25911" />
-  <path
-     style="fill:#fed;stroke-width:0.3;"
-     d="m 10.1,0.1 6.56,0 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z"
-     id="path25887" />
-  <rect
-     width="17.8"
-     height="37"
-     x="0.1"
-     y="0.1"
-     style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4"
-     ry="1.143"
-     rx="1.143"
-     id="rect25889" />
-  <text
-     style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#007700;stroke:none"
-     x="9.35"
-     y="6.07"
-     id="text25893"><tspan
-       style="font-size:6.35px;text-align:end;text-anchor:end;fill:#007700;stroke-width:0.264592"
-       x="9.35"
-       y="6.07"
-       id="tspan25891">7</tspan></text>
-  <text
-     style="font-size:5.30567px;font-family:sans-serif;stroke:none"
-     x="-34.88"
-     y="6.795"
-     transform="rotate(-90)"
-     id="text25899"><tspan
-       style="font-size:3.18341px;stroke-width:0.132647"
-       x="-34.88"
-       y="6.795"
-       id="tspan25895">Gniazdka</tspan><tspan
-       style="stroke-width:0.132647"
-       x="-34.88"
-       y="13.42"
-       id="tspan25897">TV</tspan></text>
-  <rect
-     width="17.8"
-     height=".2"
-     x="0.1"
-     y="7"
-     id="rect25901" />
-  <rect
-     width="0.2"
-     height="7"
-     x="10"
-     y=".1"
-     id="rect25903" />
-  <path
-     d="M 16.45,5.032 H 11.54 V 1.76 h 4.91 m 0,-0.545 H 11.54 A 0.5445,0.5445 0 0 0 11,1.76 v 3.272 a 0.5445,0.5445 0 0 0 0.54,0.546 h 1.37 v 0.545 h 2.17 V 5.578 h 1.37 A 0.5445,0.5445 0 0 0 17,5.032 V 1.76 A 0.5445,0.5445 0 0 0 16.45,1.215 Z"
-     style="stroke-width:0.264559"
-     id="path25905" />
+<svg width="18mm" height="37.2mm" viewBox="0 0 18 37.2" xmlns="http://www.w3.org/2000/svg" >
+<path style="fill:#fed;stroke-width:0.3;" d="m 10.1,0.1 6.56,0 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none" x="9.35" y="6.07" >
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264592" x="9.35" y="6.07" >7</tspan>
+</text>
+<text style="font-size:5.30567px;font-family:sans-serif;stroke:none" x="-34.88" y="6.795" transform="rotate(-90)" >
+<tspan style="font-size:3.18341px;stroke-width:0.132647" x="-34.88" y="6.795" >Gniazdka</tspan>
+<tspan style="stroke-width:0.132647" x="-34.88" y="13.42" >TV</tspan>
+</text>
+<rect width="17.8" height=".2" x="0.1" y="7" />
+<rect width="0.2" height="7" x="10" y=".1" />
+<path d="M 16.45,5.032 H 11.54 V 1.76 h 4.91 m 0,-0.545 H 11.54 A 0.5445,0.5445 0 0 0 11,1.76 v 3.272 a 0.5445,0.5445 0 0 0 0.54,0.546 h 1.37 v 0.545 h 2.17 V 5.578 h 1.37 A 0.5445,0.5445 0 0 0 17,5.032 V 1.76 A 0.5445,0.5445 0 0 0 16.45,1.215 Z" style="stroke-width:0.264559" />
 </svg>
