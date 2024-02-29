@@ -1,0 +1,14 @@
+<svg width="18mm" height="37.2mm" viewBox="0 0 18 37.2" xmlns="http://www.w3.org/2000/svg" >
+<path style="fill:#def;stroke-width:0.3;" d="m 10.1,0.1 6.56,0 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none" x="9.35" y="6.07" >
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264592" x="9.35" y="6.07" >21</tspan>
+</text>
+<text style="font-size:5.30567px;font-family:sans-serif;stroke:none" x="-34.88" y="6.872" transform="rotate(-90)" >
+<tspan style="font-size:3.18341px;stroke-width:0.132647" x="-34.88" y="6.872" >Czujnik</tspan>
+<tspan style="font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.132647" x="-34.88" y="13.5" >RUCHU</tspan>
+</text>
+<rect width="17.8" height=".2" x="0.1" y="7" />
+<rect width="0.2" height="7" x="10" y=".1" />
+<path d="m 13.31,0.6015 c -0.27,0 -0.49,0.22 -0.49,0.4955 0,0.275 0.22,0.495 0.49,0.495 0.28,0 0.5,-0.22 0.5,-0.495 0,-0.2755 -0.22,-0.4955 -0.5,-0.4955 m 1.56,0.22 A 2.017,2.017 0 0 0 16.89,2.838 V 2.472 A 1.65,1.65 0 0 1 15.24,0.8215 h -0.37 m 0.73,0 c 0,0.7085 0.58,1.2845 1.29,1.2845 V 1.737 c -0.51,0 -0.92,-0.41 -0.92,-0.9155 H 15.6 m 0.74,0 A 0.5504,0.5504 0 0 0 16.89,1.371 V 0.8215 h -0.55 m -3.6,0.8325 c 0,0 -0.11,0 -0.14,0.02 l -1.49,0.467 v 1.43 h 0.49 v -1.01 l 0.58,-0.18 -1.07,4.217 h 0.49 l 0.79,-2.232 0.65,0.856 v 1.376 h 0.49 V 4.835 l -0.68,-1.248 0.2,-0.791 0.3,0.502 h 1.34 V 2.803 h -1 L 13.14,1.887 C 13.04,1.748 12.91,1.655 12.74,1.654 Z" style="stroke-width:0.264526" />
+</svg>
