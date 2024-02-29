@@ -1,0 +1,22 @@
+<svg width="54mm" height="37.2mm" viewBox="0 0 54 37.2" xmlns="http://www.w3.org/2000/svg" >
+<path style="fill:#f00;stroke-width:0.3;" d="m 10.1,0.1 42.85,0.029 c 0.72,0 0.97,0.79 0.97,1.3696 l -0,5.601 H 10.1 Z" />
+<rect width="53.82" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none" x="9.32" y="6.07" >
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264591" x="9.32" y="6.07" >1</tspan>
+</text>
+<text style="font-size:10.0197px;font-family:sans-serif;fill:#f00;stroke:none" x="1.753" y="17.42" >
+<tspan style="font-size:6.01185px;fill:#f00;stroke-width:0.13267" x="1.753" y="17.42" >Pzełącznik</tspan>
+<tspan style="font-size:7.4083px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#f00;stroke-width:0.13267" x="1.753" y="29.96" >SIEĆ-AGREGAT</tspan>
+</text>
+<rect width="53.8" height=".2" x=".1" y="7" />
+<rect width=".2" height="7" x="10" y=".1" />
+<g transform="translate(1.335)">
+<path d="m 40.96,0.6047 c -0.34,0 -0.63,0.27 -0.63,0.6303 v 3.48 h 0.63 v 0.31 c 0,0.18 0.15,0.31 0.31,0.31 h 0.33 c 0.16,0 0.31,-0.13 0.31,-0.31 v -0.31 h 1.9 v 0.31 c 0,0.18 0.14,0.31 0.32,0.31 h 0.31 c 0.18,0 0.31,-0.13 0.31,-0.31 v -0.31 h 0.63 v -3.48 c 0,-0.3603 -0.27,-0.6303 -0.63,-0.6303 h -3.79 m 1.9,1.2503 v -0.62 h 1.89 v 0.62 h -1.89 m 0,0.63 h 1.89 v 0.64 H 42.86 V 2.485 M 41.6,1.235 v 1.25 h 0.63 l -0.96,1.9 v -1.26 h -0.62 l 0.95,-1.89 m 4.42,4.73 v 0.63 h -6.33 v -0.63 z" style="fill:#fff;stroke-width:0.264535" />
+<path d="m 16.58,1.635 -0.53,-0.27 0.38,-0.7651 h 2.54 L 19.35,1.365 18.81,1.631 18.6,1.199 H 16.8 L 16.58,1.635 M 19.68,2.4 H 18.32 L 18.09,1.5 H 17.31 L 17.07,2.4 H 15.71 L 15.33,3.164 15.86,3.432 16.08,3 h 3.23 L 19.53,3.434 20.07,3.168 19.68,2.4 M 19.43,6.6 H 18.81 L 18.71,6.33 17.67,4.77 16.63,6.33 16.53,6.6 h -0.56 l 0.86,-3.301 h 0.62 L 17.35,3.705 17.7,4.23 18.05,3.705 17.94,3.299 h 0.62 L 19.43,6.6 M 17.52,4.5 17.25,4.095 16.89,5.439 17.52,4.5 M 18.5,5.435 18.15,4.092 17.88,4.5 Z" style="fill:#fff;stroke-width:0.264583" />
+<text style="font-size:8.16377px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#fff;stroke-width:0.264617" x="27.55" y="6.518" >
+<tspan style="fill:#fff;stroke-width:0.264617" x="27.55" y="6.518">0</tspan>
+</text>
+<path d="M 23.49,4.923 V 3.865 h 2.36 V 3.333 H 23.49 V 2.277 L 22.17,3.6 Z" style="fill:#fff;stroke-width:0.264583" />
+<path d="m 36.27,4.925 v -1.06 h -2.36 v -0.53 h 2.36 v -1.06 l 1.32,1.33 z" style="fill:#fff;stroke-width:0.264583" />
+</g>
+</svg>
