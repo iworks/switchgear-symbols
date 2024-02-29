@@ -15,10 +15,10 @@ W projekcie zostały użyte pliki ikon: https://materialdesignicons.com/
 * L3 #777
 
 ### Typy
-* zasilanie - #f00
-* gniazdka - #fed
-* urządzenia - #dea
-* specjalne - #def
+* @@#fff zasilanie - #f00
+* @@#fed gniazdka - #fed
+* @@#dea urządzenia - #dea
+* @@#def specjalne - #def
 
 ## Wielkości
 
