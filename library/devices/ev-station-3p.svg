@@ -1,14 +1,14 @@
 <svg width="54mm" height="37.2mm" viewBox="0 0 54 37.2" xmlns="http://www.w3.org/2000/svg" >
-<path style="fill:#ddeeaa;stroke-width:0.3;" d="m 10.1,0.1 42.85,0.029 c 0.72,0 0.97,0.79 0.97,1.3696 l -0,5.601 H 10.1 Z" />
+<path style="fill:#ddeeaa;stroke-width:0.3" d="m 18,0.1 34.95,0.029 c 0.72,6e-4 0.97,0.79 0.97,1.37 V 7.1 L 18,7.1 Z" />
 <rect width="53.82" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
-<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#007700;stroke:none" x="9.32" y="6.07" >
-<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#007700;stroke-width:0.264591" x="9.32" y="6.07" >17</tspan>
+<text style="font-size:6.35px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#070;stroke:none" x="5.698" y="5.867" >
+<tspan style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070;stroke-width:0.264591" x="9.022" y="5.867" >27</tspan>
 </text>
 <text style="font-size:10.0197px;font-family:sans-serif;stroke:none" x="5.627" y="17.42" >
 <tspan style="font-size:6.01185px" x="5.627" y="17.42" >Ładowarka</tspan>
-<tspan x="5.627" y="29.96" style="font-size:7.7611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';">SAMOCHÓD</tspan>
+<tspan x="5.627" y="29.96" style="font-size:7.7611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';" >SAMOCHÓD</tspan>
 </text>
 <rect width="53.8" height=".2" x="0.1" y="7" />
-<rect width="0.2" height="7" x="10" y=".1" />
-<path d="m 34,2.338 v 0 l -0.98,-0.984 -0.28,0.28 0.55,0.559 c -0.24,0.09 -0.42,0.33 -0.42,0.613 a 0.6615,0.6615 0 0 0 0.66,0.662 c 0.1,0 0.18,-0.02 0.27,-0.06 V 5.32 A 0.2646,0.2646 0 0 1 33.53,5.584 0.2646,0.2646 0 0 1 33.27,5.32 V 4.129 A 0.5292,0.5292 0 0 0 32.74,3.6 H 32.47 V 1.748 A 0.5292,0.5292 0 0 0 31.94,1.219 h -1.58 a 0.5292,0.5292 0 0 0 -0.53,0.529 v 4.233 h 2.64 V 3.997 h 0.4 V 5.32 A 0.6615,0.6615 0 0 0 33.53,5.981 0.6615,0.6615 0 0 0 34.19,5.32 V 2.806 C 34.19,2.624 34.12,2.457 34,2.338 M 33.53,3.071 A 0.2646,0.2646 0 0 1 33.27,2.806 0.2646,0.2646 0 0 1 33.53,2.542 0.2646,0.2646 0 0 1 33.8,2.806 0.2646,0.2646 0 0 1 33.53,3.071 m -2.64,2.116 v -1.19 h -0.53 l 1.06,-1.985 v 1.323 h 0.52 z" style="stroke-width:0.264583" />
+<rect width="0.2" height="7" x="17.9" y="0.1" />
+<path d="m 38.48,2.01 v 0 L 37.24,0.7701 36.89,1.123 37.58,1.827 C 37.28,1.941 37.05,2.243 37.05,2.6 a 0.8335,0.8335 0 0 0 0.83,0.834 c 0.13,0 0.23,-0.03 0.34,-0.08 V 5.767 A 0.3334,0.3334 0 0 1 37.88,6.1 0.3334,0.3334 0 0 1 37.56,5.767 v -1.5 A 0.6668,0.6668 0 0 0 36.89,3.6 H 36.55 V 1.267 A 0.6668,0.6668 0 0 0 35.88,0.6001 H 33.89 A 0.6668,0.6668 0 0 0 33.22,1.267 V 6.6 h 3.33 V 4.1 h 0.5 V 5.767 A 0.8335,0.8335 0 0 0 37.88,6.6 0.8335,0.8335 0 0 0 38.71,5.767 V 2.6 c 0,-0.23 -0.1,-0.44 -0.23,-0.59 m -0.6,0.924 A 0.3334,0.3334 0 0 1 37.56,2.6 0.3334,0.3334 0 0 1 37.88,2.267 0.3334,0.3334 0 0 1 38.22,2.6 0.3334,0.3334 0 0 1 37.88,2.934 M 34.56,5.6 V 4.1 h -0.67 l 1.33,-2.501 v 1.667 h 0.66 z" style="stroke-width:0.264589" />
 </svg>

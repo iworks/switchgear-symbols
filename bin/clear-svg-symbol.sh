@@ -26,8 +26,9 @@ perl -pi -e 's/<\?[^>]+>//g' ${FILE}
 perl -pi -e 's/ (id|version|xmlns:svg|xml:space)="[^"]+"//g' ${FILE}
 perl -pi -e 's/[\r\t\n ]+/ /g' ${FILE}
 perl -pi -e 's/ +/ /g' ${FILE}
-perl -pi -e 's/<def[^>]+>//g' ${FILE}
 perl -pi -e 's/>[ \t\r\n]*</>\n</g' ${FILE}
+perl -pi -e 's/<def[^>]+>//g' ${FILE}
+perl -pi -e 's/<\/defs>//g' ${FILE}
 #
 # unnecessary atributes
 #

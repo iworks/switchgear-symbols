@@ -2,7 +2,7 @@
 <path style="fill:#def;stroke-width:0.3;" d="m 10.1,0.1 6.56,0 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z" />
 <rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
 <text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none" x="9.35" y="6.07" >
-<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264592" x="9.35" y="6.07" >29</tspan>
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264592" x="9.35" y="6.07" >26</tspan>
 </text>
 <rect width="17.8" height=".2" x="0.1" y="7" />
 <rect width="0.2" height="7" x="10" y=".1" />
@@ -15,9 +15,9 @@
 <text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777777;stroke-width:0.26461" x="9.909" y="34.25" >
 <tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777777;stroke-width:0.26461" x="9.909" y="34.25" >L3</tspan>
 </text>
-<circle style="fill:#0f0;stroke-width:0.3;" cx="5.468" cy="18.32" r="2" />
-<circle style="fill:#f00;stroke-width:0.3;" cx="5.468" cy="25.53" r="2" />
-<circle style="fill:#00f;stroke-width:0.3;" cx="5.468" cy="32.75" r="2" />
+<circle style="fill:#f00;stroke-width:0.3" cx="5.468" cy="18.32" r="2" />
+<circle style="fill:#ff0;stroke-width:0.3" cx="5.468" cy="25.53" r="2" />
+<circle style="fill:#008000;stroke-width:0.3" cx="5.468" cy="32.75" r="2" />
 <text style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.2646" x="15.09" y="11.01" >
 <tspan x="8.994" y="11.01" >
 <tspan style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.2646" x="8.994" y="11.01" >kontrola</tspan>

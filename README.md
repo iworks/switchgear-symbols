@@ -1,5 +1,17 @@
 # Symbole do opisywania rozdzielnic
 
+## Jak używać
+
+1. Do obsługi potrzebujesz programu do edycji garfiki wektorowej. Darmowym jest [inkscape](https://inkscape.org/).
+1. Pobierz albo [plik główny](https://raw.githubusercontent.com/iworks/switchgear-symbols/main/main.svg) albo [całe repozytorium](https://github.com/iworks/switchgear-symbols/archive/refs/heads/main.zip).
+1. Jeżeli pobrano całe repozytorium to najpierw trzeba je rozpakować.
+1. Otwórz plik `main.svg` w wybranym programie graficznym.
+1. Poukładaj potrzebne elementy.
+1. Wydrukuj i naklej w rozdzielnicy!
+1. Jeżeli wszystko jest dobrze, to może [postaw mi kawe](https://ko-fi.com/iworks).
+
+## Ikonki
+
 W projekcie zostały użyte pliki ikon: https://materialdesignicons.com/
 
 ## Kolory
