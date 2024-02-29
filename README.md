@@ -15,7 +15,7 @@ W projekcie zostały użyte pliki ikon: https://materialdesignicons.com/
 * L3 #777
 
 ### Typy
-* zasilanie - ![#foo](.github/f00.svg) #f00
+* zasilanie - <img src=".github/f00.svg" width="1em" alt="#f00"/> #f00
 * gniazdka - #fed
 * urządzenia - #dea
 * specjalne - #def
