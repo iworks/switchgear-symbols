@@ -135,7 +135,9 @@ files=( \
    "library/others/indicator-1p-2.svg" \
    "library/devices/ev-station-3p.svg" \
    "library/sockets/socket-room-hall-1p.svg" \
+   "library/sockets/socket-room-bedroom-1p.svg" \
    "library/sockets/socket.svg" \
+   "library/sockets/socket-room-office-1p.svg" \
 )
 for entry in ${files[@]}; do
     width=18
@@ -168,12 +170,52 @@ x=40
 y=240
 files=( \
     "library/switches/residual-current-circuit-breaker-3p.svg" \ 
-   "library/devices/air-conditioner-1p.svg" \
-   "library/devices/dishwasher-1p.svg" \
-   "library/devices/hydrophore-1p.svg" \
-   "library/devices/tv-1p.svg" \
-   "library/devices/robot-mower-outline-1p.svg" \
-   "library/devices/aquarium-3p.svg" \
+   "library/devices/kitchen-dishwasher-1p.svg" \
+   "library/devices/kitchen-stove-1p.svg" \
+   "library/devices/kitchen-oven-1p.svg" \
+   "library/devices/kitchen-fridge-1p.svg" \
+   "library/devices/livingroom-air-conditioner-1p.svg" \
+   "library/devices/livingroom-audio-1p.svg" \
+   "library/devices/livingroom-tv-1p.svg" \
+   "library/devices/livingroom-aquarium-3p.svg" \
+   "library/devices/livingroom-projector-1p.svg" \
+)
+for entry in ${files[@]}; do
+    width=18
+    if [[ $entry == *"2p"* ]]; then
+        width=36
+    fi
+    if [[ $entry == *"3p"* ]]; then
+        width=54
+    fi
+    if [[ $entry == *"4p"* ]]; then
+        width=72
+    fi
+    step_x=`echo "print ${ratio} * ${width}" | perl`
+    #
+    # print
+    #
+    echo "<g transform=\"translate(${x} ${y}) scale(${ratio})\">" >> ${FILE}
+    svg=$(<$entry)
+    echo $svg | sed -e 's/<svg[^>]\+>//' -e 's/<\/svg>//' >> ${FILE}
+    echo '</g>' >> ${FILE}
+    #
+    # count
+    #
+    x=`echo "print ${x} + ${step_x}" | perl`
+done
+
+#
+# example 3
+#
+x=40
+y=440
+files=( \
+    "library/switches/residual-current-circuit-breaker-3p.svg" \ 
+    "library/devices/outside-gate-1p.svg" \
+    "library/devices/outside-pool-3p.svg" \
+    "library/devices/outside-robot-mower-outline-1p.svg" \
+    "library/devices/outside-sprinkler-1p.svg" \
 )
 for entry in ${files[@]}; do
     width=18

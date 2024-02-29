@@ -1,0 +1,15 @@
+<svg width="18mm" height="37.2mm" viewBox="0 0 18 37.2" xmlns="http://www.w3.org/2000/svg" >
+
+<path style="fill:#dea;stroke-width:0.3;" d="m 10.1,0.1 6.56,0 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#070;stroke:none" x="9.35" y="6.07" >
+<tspan style="font-size:6.35px;text-align:end;text-anchor:end;fill:#070;stroke-width:0.264592" x="9.35" y="6.07" >28</tspan>
+</text>
+<text style="font-size:5.30567px;font-family:sans-serif;stroke:none" x="-34.88" y="6.874" transform="rotate(-90)" >
+<tspan style="font-size:3.18341px;stroke-width:0.132647" x="-34.88" y="6.874" >Robot</tspan>
+<tspan style="font-size:4.5861px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.132647" x="-34.88" y="13.5" >ODKURZACZ</tspan>
+</text>
+<rect width="17.8" height=".2" x="0.1" y="7" />
+<rect width="0.2" height="7" x="10" y=".1" />
+<path d="m 13.99,0.5995 c 0.79,0 1.57,0.317 2.12,0.8785 l -0.42,0.426 c -0.45,-0.45 -1.06,-0.705 -1.7,-0.705 -0.63,0 -1.25,0.253 -1.69,0.705 L 11.87,1.478 C 12.44,0.9165 13.2,0.5995 13.99,0.5995 M 11.5,1.949 11.93,2.381 C 11.71,2.75 11.6,3.171 11.6,3.599 A 2.401,2.401 0 0 0 13.99,6 2.401,2.401 0 0 0 16.4,3.599 C 16.4,3.171 16.28,2.75 16.06,2.381 L 16.5,1.949 C 16.82,2.435 17,3.011 17,3.599 A 3.001,3.001 0 0 1 13.99,6.6 3.001,3.001 0 0 1 11,3.599 c 0,-0.588 0.17,-1.164 0.5,-1.65 m 2.49,-0.15 a 1.8,1.8 0 0 1 1.81,1.8 c 0,0.478 -0.2,0.936 -0.54,1.273 L 14.84,4.449 c -0.23,0.224 -0.53,0.35 -0.85,0.35 -0.32,0 -0.62,-0.126 -0.85,-0.35 L 12.72,4.872 C 12.38,4.535 12.19,4.077 12.19,3.599 a 1.8,1.8 0 0 1 1.8,-1.8 m 0,0.601 a 0.3,0.3 0 0 0 -0.29,0.299 0.3,0.3 0 0 0 0.29,0.3 0.3,0.3 0 0 0 0.31,-0.3 A 0.3,0.3 0 0 0 13.99,2.4 Z" style="stroke-width:0.264633" />
+</svg>

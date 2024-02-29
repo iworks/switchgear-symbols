@@ -1,0 +1,15 @@
+<svg width="18mm" height="37.2mm" viewBox="0 0 18 37.2" xmlns="http://www.w3.org/2000/svg" >
+
+<path style="fill:#dea;stroke-width:0.3;" d="m 10.1,0.1 6.56,0 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#070;stroke:none" x="2.335" y="5.87" >
+<tspan style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070;stroke-width:0.264592" x="5.529" y="5.87" >13</tspan>
+</text>
+<text style="font-size:5.30567px;font-family:sans-serif;stroke:none" x="-34.88" y="6.795" transform="rotate(-90)" >
+<tspan style="font-size:3.18341px;stroke-width:0.132647" x="-34.88" y="6.795" >Łazienka</tspan>
+<tspan style="stroke-width:0.132647" x="-34.88" y="13.42" >LUSTRO</tspan>
+</text>
+<rect width="17.8" height=".2" x="0.1" y="7" />
+<rect width="0.2" height="7" x="10" y=".1" />
+<path style="stroke-width:0.264583" d="m 11,1.419 v 4.362 h 6 V 1.419 Z m 0.55,0.547 h 4.91 v 3.268 h -4.91 z m 2.48,0.51 -0.53,0.819 0.37,0.582 -0.37,0.583 0.46,0.238 0.53,-0.822 -0.38,-0.582 0.38,-0.583 z m 1.59,0 -0.53,0.819 0.38,0.582 -0.38,0.583 0.47,0.238 0.53,-0.821 -0.38,-0.582 0.38,-0.584 z m -3.18,0.02 -0.53,0.82 0.38,0.582 -0.38,0.585 0.46,0.238 0.53,-0.82 -0.38,-0.585 0.38,-0.579 z" />
+</svg>
