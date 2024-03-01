@@ -12,7 +12,7 @@
 <rect width="0.2" height="7" x="10" y=".1" />
 <path d="M 11.94,0.9545 A 0.5874,0.5874 0 0 0 11.35,1.542 v 4.113 c 0,0.33 0.26,0.59 0.59,0.59 h 4.11 a 0.5874,0.5874 0 0 0 0.59,-0.59 V 1.542 c 0,-0.323 -0.26,-0.5875 -0.59,-0.5875 H 11.94 M 14,1.483 A 2.117,2.117 0 0 1 16.11,3.605 2.117,2.117 0 0 1 14,5.715 2.117,2.117 0 0 1 11.88,3.605 2.117,2.117 0 0 1 14,1.483 m 0,0.53 A 0.3969,0.3969 0 0 0 13.6,2.41 0.3969,0.3969 0 0 0 14,2.806 0.3969,0.3969 0 0 0 14.39,2.41 0.3969,0.3969 0 0 0 14,2.013 m -1.2,1.192 a 0.3969,0.3969 0 0 0 -0.39,0.4 c 0,0.21 0.17,0.39 0.39,0.39 a 0.3969,0.3969 0 0 0 0.4,-0.39 0.3969,0.3969 0 0 0 -0.4,-0.4 m 2.39,0 a 0.3969,0.3969 0 0 0 -0.4,0.4 0.3969,0.3969 0 0 0 0.4,0.39 0.3969,0.3969 0 0 0 0.39,-0.39 0.3969,0.3969 0 0 0 -0.39,-0.4 z" style="stroke-width:0.2646" />
 <rect width="17.8" height="0.2" x="0.09999" y="31.5" style="stroke-width:0.999978" />
-<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777777;stroke-width:0.26461" x="6.506" y="36" >
-<tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777777;stroke-width:0.26461" x="6.506" y="36" >L3</tspan>
+<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777;stroke-width:0.26461" x="6.506" y="36" >
+<tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777;stroke-width:0.26461" x="6.506" y="36" >L3</tspan>
 </text>
 </svg>

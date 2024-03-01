@@ -54,10 +54,16 @@ perl -pi -e 's/#000000/#000/g' ${FILE}
 perl -pi -e 's/#0000ff/#00f/g' ${FILE}
 perl -pi -e 's/#007700/#070/g' ${FILE}
 perl -pi -e 's/#00ff00/#0f0/g' ${FILE}
+perl -pi -e 's/#777777/#777/g' ${FILE}
+perl -pi -e 's/#880000/#800/g' ${FILE}
+perl -pi -e 's/#bbbbbb/#bbb/g' ${FILE}
+perl -pi -e 's/#ddeeaa/#dea/g' ${FILE}
+perl -pi -e 's/#ddeeff/#def/g' ${FILE}
 perl -pi -e 's/#ff0000/#f00/g' ${FILE}
 perl -pi -e 's/#ffeedd/#fed/g' ${FILE}
 perl -pi -e 's/#ffff00/#ff0/g' ${FILE}
 perl -pi -e 's/#ffffff/#fff/g' ${FILE}
+
 #
 # precision
 #

@@ -1,6 +1,5 @@
 <svg width="72mm" height="37.2mm" viewBox="0 0 72 37.2" xmlns="http://www.w3.org/2000/svg" >
-
-<path style="fill:#ddeeff;stroke-width:0.3" d="m 18,0.1 52.93,0.1294 c 0.72,0 0.97,0.7896 0.97,1.3696 V 7.2 L 18,7.1 Z" />
+<path style="fill:#def;stroke-width:0.3" d="m 18,0.1 52.93,0.1294 c 0.72,0 0.97,0.7896 0.97,1.3696 V 7.2 L 18,7.1 Z" />
 <rect width="71.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.199994;stroke-miterlimit:4" ry="1.143" rx="1.143" />
 <text style="font-size:6.35px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#070;stroke:none" x="5.679" y="5.92" >
 <tspan style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070;stroke-width:0.264591" x="9.003" y="5.92" >20</tspan>
@@ -18,14 +17,14 @@
 <path style="fill:none;fill-rule:evenodd;stroke:#000;stroke-width:2.03723;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" d="M 52.81,3.077 17.72,38.43 H 3.562" />
 </g>
 <path d="m 43.89,0.8073 h 3 L 45.85,2.907 h 1.04 l -2.11,3.9 v -2.4 H 43.89 V 0.8073 m 0.6,0.5997 v 2.4 h 0.93 v 0.79 l 0.57,-1.09 h -1.13 l 1.06,-2.1 z" style="stroke-width:0.264573" />
-<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#880000;stroke-width:0.26461" x="24.76" y="36" >
-<tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#880000;stroke-width:0.26461" x="24.76" y="36" >L1</tspan>
+<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#800;stroke-width:0.26461" x="24.76" y="36" >
+<tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#800;stroke-width:0.26461" x="24.76" y="36" >L1</tspan>
 </text>
 <text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';stroke-width:0.26461" x="42.49" y="36.03" >
 <tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';stroke-width:0.26461" x="42.49" y="36.03" >L2</tspan>
 </text>
-<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777777;stroke-width:0.26461" x="60.51" y="36.03" >
-<tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777777;stroke-width:0.26461" x="60.51" y="36.03" >L3</tspan>
+<text style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777;stroke-width:0.26461" x="60.51" y="36.03" >
+<tspan style="font-weight:bold;font-size:4.20185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#777;stroke-width:0.26461" x="60.51" y="36.03" >L3</tspan>
 </text>
 <rect width="71.8" height="0.2" x="0.1" y="31.5" />
 <path d="m 56.39,1.672 -0.52,0.51 c 0.61,0.37 1.03,1.04 1.03,1.8 a 2.115,2.115 0 0 1 -2.12,2.12 2.115,2.115 0 0 1 -2.12,-2.12 c 0,-0.76 0.41,-1.43 1.02,-1.8 l -0.52,-0.51 c -0.73,0.51 -1.21,1.35 -1.21,2.31 a 2.822,2.822 0 0 0 2.83,2.82 2.822,2.822 0 0 0 2.82,-2.82 c 0,-0.96 -0.48,-1.8 -1.21,-2.31 M 55.14,0.8122 H 54.43 V 4.342 h 0.71" style="stroke-width:0.264517" />

@@ -1,5 +1,5 @@
 <svg width="72mm" height="37.2mm" viewBox="0 0 72 37.2" xmlns="http://www.w3.org/2000/svg" >
-<path style="fill:#ddeeff;stroke-width:0.3" d="m 18,0.1 52.93,0.1294 c 0.72,0 0.97,0.7896 0.97,1.3696 V 7.2 L 18,7.1 Z" />
+<path style="fill:#def;stroke-width:0.3" d="m 18,0.1 52.93,0.1294 c 0.72,0 0.97,0.7896 0.97,1.3696 V 7.2 L 18,7.1 Z" />
 <rect width="71.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.199994;stroke-miterlimit:4" ry="1.143" rx="1.143" />
 <text style="font-size:6.35px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#070;stroke:none" x="5.679" y="5.92" >
 <tspan style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070;stroke-width:0.264591" x="9.003" y="5.92" >20</tspan>
