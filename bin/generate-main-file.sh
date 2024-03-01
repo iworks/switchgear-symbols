@@ -10,13 +10,14 @@ echo "<!-- https://github.com/iworks/switchgear-symbols -->" >> ${FILE}
 ratio="3.78"
 
 
-start_x=-1800
+start_x=-350
+start_y=-1000
 
 #
 # sockets
 #
 x=${start_x}
-y=-600
+y=${start_y}
 for entry in `find ./library/sockets -type f|grep svg|sort`; do
     width=18
     step_x=`echo "print ${ratio} * ${width}" | perl`
@@ -31,7 +32,7 @@ done
 # devices 
 #
 x=${start_x}
-y=-400
+y=$(( start_y + 200 ))
 for entry in `find ./library/devices -type f|grep svg|sort`; do
     width=18
     if [[ $entry == *"2p"* ]]; then
@@ -56,7 +57,7 @@ done
 # switches
 #
 x=${start_x}
-y=-200
+y=$(( start_y + 400 ))
 for entry in `find ./library/switches -type f|grep svg|sort`; do
     width=18
     if [[ $entry == *"2p"* ]]; then
@@ -80,7 +81,7 @@ done
 # lights
 #
 x=${start_x}
-y=0
+y=$(( start_y + 600 ))
 for entry in `find ./library/lights -type f|grep svg|sort`; do
     width=18
     if [[ $entry == *"2p"* ]]; then
@@ -104,7 +105,7 @@ done
 # others
 #
 x=${start_x}
-y=200
+y=$(( start_y + 800 ))
 for entry in `find ./library/others -type f|grep svg|sort`; do
     width=18
     if [[ $entry == *"2p"* ]]; then
@@ -244,12 +245,12 @@ done
 
 
 
-echo "<text style='font-size:40px' x='${start_x}' y='-620'>Gniazda</text>" >> ${FILE}
-echo "<text style='font-size:40px' x='${start_x}' y='-420'>Urządzenia</text>" >> ${FILE}
-echo "<text style='font-size:40px' x='${start_x}' y='-220'>Włączniki</text>" >> ${FILE}
-echo "<text style='font-size:40px' x='${start_x}' y='-20'>Światła</text>" >> ${FILE}
-echo "<text style='font-size:40px' x='${start_x}' y='180'>Różne inne</text>" >> ${FILE}
-echo "<text style='font-size:80px' x='${start_x}' y='-700'>BIBLIOTEKA</text>" >> ${FILE}
+echo "<text style='font-size:40px' x='${start_x}' y='$((start_y - 20 ))'>Gniazda</text>" >> ${FILE}
+echo "<text style='font-size:40px' x='${start_x}' y='$((start_y + 180 ))'>Urządzenia</text>" >> ${FILE}
+echo "<text style='font-size:40px' x='${start_x}' y='$((start_y + 380 ))'>Włączniki</text>" >> ${FILE}
+echo "<text style='font-size:40px' x='${start_x}' y='$((start_y + 580 ))'>Światła</text>" >> ${FILE}
+echo "<text style='font-size:40px' x='${start_x}' y='$((start_y + 780 ))'>Różne inne</text>" >> ${FILE}
+echo "<text style='font-size:80px' x='${start_x}' y='$((start_y - 100 ))'>BIBLIOTEKA <tspan style=\"font-size:30px\">(`date +"%c"`)</tspan></text>" >> ${FILE}
 echo '<text style="font-size:12px;fill:#ff0000" x="600" y="760">Jeżeli Ci się podoba to może postaw mi kawę: https://ko-fi.com/iworks</text>' >> ${FILE}
 echo "<g transform='translate(1050 720)'>" >> ${FILE}
 echo $(<".github/ko-fi.com-iworks.svg") | sed -e 's/<svg[^>]\+>//' -e 's/<\/svg>//' >> ${FILE}

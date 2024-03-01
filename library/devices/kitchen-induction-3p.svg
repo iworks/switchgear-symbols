@@ -1,0 +1,15 @@
+<svg width="54mm" height="37.2mm" viewBox="0 0 54 37.2" xmlns="http://www.w3.org/2000/svg" >
+
+<path style="fill:#ddeeaa;stroke-width:0.3" d="m 18,0.1 34.95,0.029 c 0.72,6e-4 0.97,0.79 0.97,1.37 V 7.1 L 18,7.1 Z" />
+<rect width="53.82" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4;" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#070;stroke:none" x="6.745" y="5.867" >
+<tspan style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070;stroke-width:0.264591" x="9.406" y="5.867" >27</tspan>
+</text>
+<text style="font-size:10.0197px;font-family:sans-serif;stroke:none" x="6.476" y="17.42" >
+<tspan style="font-size:6.01185px" x="6.476" y="17.42" >Kuchni</tspan>
+<tspan x="6.476" y="29.96" style="font-size:7.7611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal'" >INDUKCJA</tspan>
+</text>
+<rect width="53.8" height=".2" x="0.1" y="7" />
+<rect width="0.2" height="7" x="17.9" y="0.1" />
+<path d="M 39.26,0.6 C 38.59,0.6 37.99,0.78 37.52,0.99 37.1,0.78 36.56,0.6 35.96,0.6 35.36,0.6 34.83,0.78 34.41,0.99 33.94,0.78 33.34,0.6 32.66,0.6 v 0.6 c 0.41,0 0.78,0.11 1.11,0.19 -0.2,0.15 -0.31,0.27 -0.33,0.28 -0.11,0.12 -0.18,0.27 -0.18,0.42 v 3.3 c 0,0.67 0.54,1.21 1.21,1.21 0.65,0 1.2,-0.54 1.2,-1.21 v -3.3 c 0,-0.17 -0.12,-0.33 -0.21,-0.44 0,0 -0.16,-0.13 -0.39,-0.29 0.27,-0.12 0.57,-0.16 0.89,-0.16 0.33,0 0.63,0.11 0.91,0.16 -0.25,0.16 -0.39,0.27 -0.4,0.29 -0.13,0.11 -0.2,0.27 -0.2,0.44 v 3.3 c 0,0.67 0.53,1.21 1.19,1.21 0.67,0 1.2,-0.54 1.2,-1.21 v -3.3 c 0,-0.15 -0.11,-0.3 -0.17,-0.42 0,0 -0.14,-0.13 -0.34,-0.28 0.33,-0.11 0.7,-0.19 1.11,-0.19 V 0.6 m -4.19,1.49 v 3.3 c 0,0.34 -0.28,0.6 -0.6,0.6 -0.34,0 -0.61,-0.26 -0.61,-0.6 v -3.3 c 0,0 0.21,-0.2 0.56,-0.42 0.41,0.22 0.65,0.42 0.65,0.42 m 2.99,0 v 3.3 c 0,0.34 -0.26,0.6 -0.6,0.6 -0.33,0 -0.59,-0.26 -0.59,-0.6 v -3.3 c 0,0 0.24,-0.2 0.63,-0.42 0.36,0.22 0.56,0.42 0.56,0.42 z" style="stroke-width:0.264533" />
+</svg>
