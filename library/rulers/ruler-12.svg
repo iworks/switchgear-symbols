@@ -1,0 +1,39 @@
+<svg width="216mm" height="10mm" viewBox="0 0 216 10" xmlns="http://www.w3.org/2000/svg" style="font-size:8px">
+
+<rect width="18" height="10" x="0" y="0" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="7" y="8">1</tspan></text>
+
+<rect width="18" height="10" x="18" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="25" y="8">2</tspan></text>
+
+<rect width="18" height="10" x="36" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="41" y="8">3 </tspan></text>
+
+<rect width="18" height="10" x="54" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="61" y="8">4</tspan></text>
+
+<rect width="18" height="10" x="72" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="79" y="8">5</tspan></text>
+
+<rect width="18" height="10" x="90" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="97" y="8">6 </tspan></text>
+
+<rect width="18" height="10" x="108" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="115" y="8">7</tspan></text>
+
+<rect width="18" height="10" x="126" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="133.9" y="8">8</tspan></text>
+
+<rect width="18" height="10" x="144" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="151" y="8">9 </tspan></text>
+
+<rect width="18" height="10" x="162" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="166" y="8">10</tspan></text>
+
+<rect width="18" height="10" x="180" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="185" y="8">11</tspan></text>
+
+<rect width="18" height="10" x="198" style="stroke:#000;fill:none;stroke-width:0.2" ry="2" rx="2" />
+<text><tspan x="203" y="8">12</tspan></text>
+
+</svg>
