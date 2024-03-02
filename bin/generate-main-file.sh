@@ -213,10 +213,12 @@ x=40
 y=440
 files=( \
     "library/switches/residual-current-circuit-breaker-3p.svg" \ 
+    "library/others/meter-electric-3p.svg" \
     "library/devices/outside-gate-1p.svg" \
     "library/devices/outside-pool-3p.svg" \
     "library/devices/outside-robot-mower-outline-1p.svg" \
     "library/devices/outside-sprinkler-1p.svg" \
+    "library/others/socket-2p.svg" \
 )
 for entry in ${files[@]}; do
     width=18
