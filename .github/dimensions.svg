@@ -1,0 +1,46 @@
+<svg width="60mm" height="60mm" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" >
+
+<marker style="overflow:visible" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+<path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="M 5.77,0 -2.88,5 V -5 Z" />
+</marker>
+
+<g transform="translate(12.31,19.76)">
+<path style="fill:#dea;stroke-width:0.3" d="m 10.1,0.1 h 6.56 c 0.86,0 1.23,0.51 1.24,1.37 V 7.1 h -7.8 z" />
+<rect width="17.8" height="37" x="0.1" y="0.1" style="fill:none;stroke:#000;stroke-width:0.2;stroke-miterlimit:4" ry="1.143" rx="1.143" />
+<text style="font-size:6.35px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#070;stroke:none" x="3.603" y="5.867" >
+<tspan style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070;stroke-width:0.264592" x="5.105" y="5.867" >8</tspan>
+</text>
+<text style="font-size:5.30567px;font-family:sans-serif;stroke:none" x="-34.36" y="6.869" transform="rotate(-90)" >
+<tspan style="font-size:3.18341px;stroke-width:0.132647" x="-34.36" y="6.869" >Salon</tspan>
+<tspan style="font-size:5.6444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.132647" x="-34.36" y="13.49" >ROLETY</tspan>
+</text>
+<rect width="17.8" height="0.2" x="0.1" y="7" />
+<rect width="0.2" height="7" x="10" y="0.1" />
+<path d="M 16.4,5.701 V 0.8975 H 11.59 V 5.701 H 11 v 0.601 h 6 V 5.701 H 16.4 M 15.2,2.698 h 0.6 V 3.299 H 15.2 V 2.698 M 14.6,3.299 H 12.19 V 2.698 H 14.6 V 3.299 M 15.8,2.098 H 15.2 V 1.497 h 0.6 V 2.098 M 14.6,1.497 V 2.098 H 12.19 V 1.497 H 14.6 M 12.19,5.701 V 3.9 h 2.41 v 0.546 c -0.14,0.102 -0.23,0.252 -0.23,0.429 0,0.292 0.24,0.526 0.53,0.526 0.29,0 0.52,-0.234 0.52,-0.526 0,-0.177 -0.11,-0.335 -0.22,-0.428 V 3.901 h 0.6 v 1.8 z" style="stroke-width:0.264616" />
+</g>
+<path style="fill:none;stroke:#000;stroke-width:0.3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-opacity:1;marker-start:url(#TriangleStart)" d="m 29.88,19.99 2.44,-1.55" />
+<text style="font-size:2.1167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.2646" x="42.64" y="23.28" >
+<tspan style="font-size:2.1167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.2646" x="42.64" y="23.28">max-height: 6mm </tspan>
+<tspan style="font-size:2.1167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.2646" x="42.64" y="25.93" >or</tspan>
+<tspan style="font-size:2.1167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.2646" x="42.64" y="28.57" >max-width: 6mm</tspan>
+</text>
+<path style="fill:none;stroke:#000;stroke-width:0.0999909;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 16.76,56.91 h 18.6" />
+<path style="fill:none;stroke:#000;stroke-width:0.0999909;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 16.76,53.96 h 18.6" />
+<path style="fill:none;stroke:#000;stroke-width:0.0999909;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 12.36,6.54 v 18.6" />
+<path style="fill:none;stroke:#000;stroke-width:0.0999909;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 15.91,6.54 v 18.6" />
+<path style="fill:none;stroke:#000;stroke-width:0.099977;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 22.49,20.28 V 30" />
+<text style="font-size:3.52799px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.2646" x="37.03" y="56.69" >
+<tspan style="stroke-width:0.2646" x="37.03" y="56.69">3mm</tspan>
+</text>
+<text style="font-size:3.52799px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.2646" x="15" y="5.59" >
+<tspan style="stroke-width:0.2646" x="15" y="5.59">3.6mm</tspan>
+</text>
+<path style="fill:none;stroke:#000;stroke-width:0.0999909;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 7.46,19.91 h 18.6" />
+<path style="fill:none;stroke:#000;stroke-width:0.0999909;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 7.46,26.86 h 18.6" />
+<text style="font-size:3.52799px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.2646" x="6.757" y="24.62" >
+<tspan style="stroke-width:0.2646" x="6.757" y="24.62">7mm</tspan>
+</text>
+<text style="font-size:3.52799px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.2646" x="17.51" y="32.56" >
+<tspan style="stroke-width:0.2646" x="17.51" y="32.56">10mm</tspan>
+</text>
+</svg>
