@@ -13,6 +13,31 @@ ratio="3.78"
 start_x=-350
 start_y=-1000
 
+function get_width() {
+    if [[ $entry == *"05p"* ]]; then
+        echo 9
+        exit
+    fi
+    if [[ $1 == *"2p"* ]]; then
+        echo 36
+        exit
+    fi
+    if [[ $entry == *"25p"* ]]; then
+        echo 45
+        exit
+    fi
+    if [[ $entry == *"3p"* ]]; then
+        echo 54
+        exit
+    fi
+    if [[ $entry == *"4p"* ]]; then
+        echo 72
+        exit
+    fi
+    echo 18
+}
+
+
 #
 # sockets
 #
@@ -34,16 +59,7 @@ done
 x=${start_x}
 y=$(( start_y + 200 ))
 for entry in `find ./library/devices -type f|grep svg|sort`; do
-    width=18
-    if [[ $entry == *"2p"* ]]; then
-        width=36
-    fi
-    if [[ $entry == *"3p"* ]]; then
-        width=54
-    fi
-    if [[ $entry == *"4p"* ]]; then
-        width=72
-    fi
+    width=`get_width $entry`
     step_x=`echo "print ${ratio} * ${width}" | perl`
     echo "<g data-file=\"${entry}\" transform=\"translate(${x} ${y}) scale(${ratio})\">" >> ${FILE}
     svg=$(<$entry)
@@ -59,16 +75,7 @@ done
 x=${start_x}
 y=$(( start_y + 400 ))
 for entry in `find ./library/switches -type f|grep svg|sort`; do
-    width=18
-    if [[ $entry == *"2p"* ]]; then
-        width=36
-    fi
-    if [[ $entry == *"3p"* ]]; then
-        width=54
-    fi
-    if [[ $entry == *"4p"* ]]; then
-        width=72
-    fi
+    width=`get_width $entry`
     step_x=`echo "print ${ratio} * ${width}" | perl`
     echo "<g data-file=\"${entry}\" transform=\"translate(${x} ${y}) scale(${ratio})\">" >> ${FILE}
     svg=$(<$entry)
@@ -83,16 +90,7 @@ done
 x=${start_x}
 y=$(( start_y + 600 ))
 for entry in `find ./library/lights -type f|grep svg|sort`; do
-    width=18
-    if [[ $entry == *"2p"* ]]; then
-        width=36
-    fi
-    if [[ $entry == *"3p"* ]]; then
-        width=54
-    fi
-    if [[ $entry == *"4p"* ]]; then
-        width=72
-    fi
+    width=`get_width $entry`
     step_x=`echo "print ${ratio} * ${width}" | perl`
     echo "<g data-file=\"${entry}\" transform=\"translate(${x} ${y}) scale(${ratio})\">" >> ${FILE}
     svg=$(<$entry)
@@ -107,16 +105,7 @@ done
 x=${start_x}
 y=$(( start_y + 800 ))
 for entry in `find ./library/others -type f|grep svg|sort`; do
-    width=18
-    if [[ $entry == *"2p"* ]]; then
-        width=36
-    fi
-    if [[ $entry == *"3p"* ]]; then
-        width=54
-    fi
-    if [[ $entry == *"4p"* ]]; then
-        width=72
-    fi
+    width=`get_width $entry`
     step_x=`echo "print ${ratio} * ${width}" | perl`
     echo "<g data-file=\"${entry}\" transform=\"translate(${x} ${y}) scale(${ratio})\">" >> ${FILE}
     svg=$(<$entry)
@@ -131,26 +120,18 @@ done
 x=40
 y=40
 files=( \
-   "library/switches/main-switch-4p-with-phases.svg" \
-   "library/others/blank-2p.svg" \
-   "library/others/indicator-1p-2.svg" \
-   "library/devices/ev-station-3p.svg" \
-   "library/sockets/socket-room-hall-1p.svg" \
-   "library/sockets/socket-room-bedroom-1p.svg" \
-   "library/sockets/socket.svg" \
-   "library/sockets/socket-room-office-1p.svg" \
+    "library/switches/main-switch-4p-with-phases.svg" \
+    "library/others/blank-2p.svg" \
+    "library/others/indicator-1p-2.svg" \
+    "library/devices/ev-station-3p.svg" \
+    "library/sockets/socket-room-bathroom-1p.svg" \
+    "library/sockets/socket-room-hall-1p.svg" \
+    "library/sockets/socket-room-bedroom-1p.svg" \
+    "library/sockets/socket.svg" \
+    "library/sockets/socket-room-office-1p.svg" \
 )
 for entry in ${files[@]}; do
-    width=18
-    if [[ $entry == *"2p"* ]]; then
-        width=36
-    fi
-    if [[ $entry == *"3p"* ]]; then
-        width=54
-    fi
-    if [[ $entry == *"4p"* ]]; then
-        width=72
-    fi
+    width=`get_width $entry`
     step_x=`echo "print ${ratio} * ${width}" | perl`
     #
     # print
@@ -171,15 +152,16 @@ x=40
 y=240
 files=( \
     "library/switches/residual-current-circuit-breaker-3p.svg" \ 
-   "library/devices/kitchen-dishwasher-1p.svg" \
-   "library/devices/kitchen-stove-1p.svg" \
-   "library/devices/kitchen-oven-1p.svg" \
-   "library/devices/kitchen-fridge-1p.svg" \
-   "library/devices/livingroom-air-conditioner-1p.svg" \
-   "library/devices/livingroom-audio-1p.svg" \
-   "library/devices/livingroom-tv-1p.svg" \
-   "library/devices/livingroom-aquarium-3p.svg" \
-   "library/devices/livingroom-projector-1p.svg" \
+    "library/devices/kitchen-dishwasher-1p.svg" \
+    "library/devices/kitchen-stove-1p.svg" \
+    "library/devices/kitchen-oven-1p.svg" \
+    "library/devices/kitchen-fridge-1p.svg" \
+    "library/devices/kitchen-hood-1p.svg" \
+    "library/devices/livingroom-air-conditioner-1p.svg" \
+    "library/devices/livingroom-audio-1p.svg" \
+    "library/devices/livingroom-tv-1p.svg" \
+    "library/devices/livingroom-aquarium-3p.svg" \
+    "library/devices/livingroom-projector-1p.svg" \
 )
 for entry in ${files[@]}; do
     width=18
@@ -218,19 +200,11 @@ files=( \
     "library/devices/outside-pool-3p.svg" \
     "library/devices/outside-robot-mower-outline-1p.svg" \
     "library/devices/outside-sprinkler-1p.svg" \
-    "library/others/socket-2p.svg" \
+    "library/others/blank-05p.svg" \
+    "library/others/socket-25p.svg" \
 )
 for entry in ${files[@]}; do
-    width=18
-    if [[ $entry == *"2p"* ]]; then
-        width=36
-    fi
-    if [[ $entry == *"3p"* ]]; then
-        width=54
-    fi
-    if [[ $entry == *"4p"* ]]; then
-        width=72
-    fi
+    width=`get_width $entry`
     step_x=`echo "print ${ratio} * ${width}" | perl`
     #
     # print
