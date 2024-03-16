@@ -4,6 +4,11 @@
 
 FILE="main.svg"
 
+if [ ! -f ${FILE} ]; then
+    echo "File \"${FILE}\" does not exist."
+    exit
+fi
+
 echo '<svg width="297mm" height="210mm" xmlns="http://www.w3.org/2000/svg">' > ${FILE}
 echo "<!-- https://github.com/iworks/switchgear-symbols -->" >> ${FILE}
 
@@ -14,24 +19,32 @@ start_x=-350
 start_y=-1000
 
 function get_width() {
-    if [[ $entry == *"05p"* ]]; then
+    if [[ $entry == *"-05p"* ]]; then
         echo 9
         exit
     fi
-    if [[ $1 == *"2p"* ]]; then
+    if [[ $1 == *"-2p"* ]]; then
         echo 36
         exit
     fi
-    if [[ $entry == *"25p"* ]]; then
+    if [[ $entry == *"-25p"* ]]; then
         echo 45
         exit
     fi
-    if [[ $entry == *"3p"* ]]; then
+    if [[ $entry == *"-3p"* ]]; then
         echo 54
         exit
     fi
-    if [[ $entry == *"4p"* ]]; then
+    if [[ $entry == *"-4p"* ]]; then
         echo 72
+        exit
+    fi
+    if [[ $1 == *"-12p"* ]]; then
+        echo 216
+        exit
+    fi
+    if [[ $1 == *"-16p"* ]]; then
+        echo 288
         exit
     fi
     echo 18
@@ -164,16 +177,7 @@ files=( \
     "library/devices/livingroom-projector-1p.svg" \
 )
 for entry in ${files[@]}; do
-    width=18
-    if [[ $entry == *"2p"* ]]; then
-        width=36
-    fi
-    if [[ $entry == *"3p"* ]]; then
-        width=54
-    fi
-    if [[ $entry == *"4p"* ]]; then
-        width=72
-    fi
+    width=`get_width $entry`
     step_x=`echo "print ${ratio} * ${width}" | perl`
     #
     # print
