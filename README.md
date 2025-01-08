@@ -10,7 +10,7 @@
 1. Open the `main.svg` file in your chosen graphics program.
 1. Arrange the necessary elements.
 1. Print and stick in the switchboard!
-1. If everything is fine, maybe [buy me a coffee](https://ko-fi.com/iworks).
+1. If everything is fine, maybe [buy me a coffee](https://ko-fi.com/iworks?utm_source=README.md&utm_medium=github&utm_campaign=en&utm_id=switchgear-symbols).
 
 ## Icons
 
@@ -52,7 +52,7 @@ The project uses icon files: https://materialdesignicons.com/
 1. Otwórz plik `main.svg` w wybranym programie graficznym.
 1. Poukładaj potrzebne elementy.
 1. Wydrukuj i naklej w rozdzielnicy!
-1. Jeżeli wszystko jest dobrze, to może [postaw mi kawe](https://ko-fi.com/iworks).
+1. Jeżeli wszystko jest dobrze, to może [postaw mi kawe](https://ko-fi.com/iworks?utm_source=README.md&utm_medium=github&utm_campaign=pl&utm_id=switchgear-symbols).
 
 ## Ikonki
 
