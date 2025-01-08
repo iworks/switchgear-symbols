@@ -1,6 +1,6 @@
 # Symbols to an electricity switchboard
 
-[PL](#-symbole-do-opisywania-rozdzielnic)
+[PL](#symbole-do-opisywania-rozdzielnic)
 
 ## How to use?
 
